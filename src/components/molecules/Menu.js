@@ -1,7 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import menuIco from "../../img/menuIco.svg";
-
 
 export default class Menu extends React.Component {
     constructor(props) {
@@ -102,9 +99,4 @@ export default class Menu extends React.Component {
   
       )
     }
-
-    // componentDidMount(){
-    //   console.log('attatch menu')
-    //   var btn = 
-    // }
 }
